@@ -80,8 +80,9 @@ a {
 }
 
 .job {
-    color: #ffe479;
-    font-size: 0.75rem;
+    color: #3e3b3b;
+    font-size: 0.90rem;
+    font-style: oblique;
 }
 
 .hr {
